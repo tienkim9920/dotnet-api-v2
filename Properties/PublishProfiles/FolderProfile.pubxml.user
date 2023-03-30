@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\vtnguyen\Documents\GitHub\Web_Api_Computer_Shop\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-07-28T04:24:51.5549566Z;True|2022-07-28T11:18:24.6733721+07:00;True|2022-06-28T14:44:11.4135270+07:00;True|2022-06-28T13:42:09.4719211+07:00;True|2022-06-28T13:41:43.8551753+07:00;True|2022-06-28T13:33:15.7387593+07:00;True|2022-06-28T11:30:22.6406387+07:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=memory-shop-db.mssql.somee.com%3bpacket size=4096%3buser id=fire733_SQLLogin_1%3bpwd=7g1u5gyw4j%3bdata source=memory-shop-db.mssql.somee.com%3bpersist security info=False%3binitial catalog=memory-shop-db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
